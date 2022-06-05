@@ -1,6 +1,6 @@
 # YASE Project Template
 
-Use the files in this repository as a starting point for your YASE projects. For more information about YASE, see the
+Use the files in this repository as a starting point for your YASE projects. For more information about YASE, see 
 https://github.com/klavins/yase.
 
 # Getting Started
